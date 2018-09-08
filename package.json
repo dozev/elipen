@@ -4,7 +4,7 @@
     "description": "FreeMovies!. Watch DeadPool 2 (2018) Online UHD Full Movie",
     "keywords": ["framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
     "homepage": "http://www.123moviesinhd.com/mission-impossible-fallout/",
-    "license": "MIT",
+    "license": "ISC",
     "authors": [
         {
             "name": "http://www.123moviesinhd.com/mission-impossible-fallout/",
