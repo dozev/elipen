@@ -1,0 +1,16 @@
+{
+    "name": "goputlocker/free-watch-deadpool-2-online-uhd-2018-full-movie",
+    "type": "library",
+    "description": "FreeMovies!. Watch DeadPool 2 (2018) Online UHD Full Movie",
+    "keywords": ["framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
+    "homepage": "http://www.123moviesinhd.com/mission-impossible-fallout/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "http://www.123moviesinhd.com/mission-impossible-fallout/",
+            "email": "dozevi@travala10.com",
+            "homepage": "http://www.123moviesinhd.com/mission-impossible-fallout/"
+        }
+    ]
+    
+}
